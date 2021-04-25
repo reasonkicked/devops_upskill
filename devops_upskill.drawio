@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T06:42:13.245Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="oMyKlRJcms8x8nJihyEK" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T06:47:37.750Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="RurCslEcI2xafPloEJu2" version="14.6.6" type="github">
   <diagram id="LdA-1L0uCgT_CVbXWtCU" name="Page-1">
     <mxGraphModel dx="1430" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Rn8A0Fxg7lWSqy2aSkI7-1" value="VPC&lt;br&gt;10.1.0.0/16" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="119" y="244" width="692" height="761" as="geometry" />
+          <mxGeometry x="119" y="244" width="551" height="761" as="geometry" />
         </mxCell>
         <mxCell id="Rn8A0Fxg7lWSqy2aSkI7-2" value="us-west-2a" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="215.5" y="211" width="149" height="816" as="geometry" />
@@ -240,6 +240,9 @@
             <mxPoint x="362" y="655" as="sourcePoint" />
             <mxPoint x="414.40999999999985" y="649.125" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rn8A0Fxg7lWSqy2aSkI7-93" value="TODO:&lt;br&gt;Vault&lt;br&gt;ECR&lt;br&gt;Bastion host&lt;br&gt;ASG tresholds&lt;br&gt;SSH&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="425" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
