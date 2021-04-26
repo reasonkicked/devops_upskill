@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T06:01:00.464Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="0nPxBRGJ7mjMR6GUxFSY" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T07:19:16.556Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Ry09D-XbNdsGchc00aLa" version="14.6.6" type="github">
   <diagram id="LdA-1L0uCgT_CVbXWtCU" name="Page-1">
     <mxGraphModel dx="1430" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
             <mxPoint x="414.40999999999985" y="649.125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rn8A0Fxg7lWSqy2aSkI7-93" value="TODO:&lt;br&gt;Vault&lt;br&gt;Bastion host&lt;br&gt;ECR/ECS&lt;br&gt;ASG tresholds&lt;br&gt;SSH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="Rn8A0Fxg7lWSqy2aSkI7-93" value="TODO:&lt;br&gt;Vault&lt;br&gt;Bastion host&lt;br&gt;ECR/ECS&lt;br&gt;ASG tresholds&lt;br&gt;https" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="715" y="425" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
