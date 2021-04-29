@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T07:14:08.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="smc2rh_4geuwZk3bbmL8" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T09:02:32.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="IacxArnhAtsDsUMdCNWH" version="14.6.6" type="github">
   <diagram id="LdA-1L0uCgT_CVbXWtCU" name="Page-1">
-    <mxGraphModel dx="1188" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3565" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,6 +214,12 @@
             <mxPoint x="310" y="420" as="sourcePoint" />
             <mxPoint x="360" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lxqPDfeSCclGnKKYvE98-43" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="1">
+          <mxGeometry x="422.23" y="800" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxqPDfeSCclGnKKYvE98-44" value="&lt;a target=&quot;_self&quot; href=&quot;https://us-west-2.console.aws.amazon.com/secretsmanager/home?region=us-west-2#!/secret?name=ts-rds-db-cred&quot; style=&quot;cursor: pointer ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box ; font-family: &amp;#34;amazon ember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;ts-rds-db-cred&lt;/font&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="377.23" y="770" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
